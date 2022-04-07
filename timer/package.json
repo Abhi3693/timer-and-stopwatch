@@ -1,6 +1,5 @@
 {
   "name": "timer",
-  "homepage": "https://Abhi3693.github.io/timer-and-stopwatch ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
