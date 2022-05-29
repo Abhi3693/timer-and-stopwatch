@@ -76,3 +76,18 @@ h1 {
   font-weight: 900;
   font-size: 1.2rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .timer-watch-holder {
+    display: block;
+    text-align: center;
+  }
+  .stop-watch,
+  .timer {
+    margin-top: 3rem;
+  }
+  .btn {
+    text-align: center;
+    margin-top: 2rem;
+  }
+}
